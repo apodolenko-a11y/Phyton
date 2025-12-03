@@ -21,4 +21,4 @@ turtle.fd(korgus * mootkava)
 turtle.lt(143)
 turtle.fd(pikkus * mootkava)
  
-
+turtle.done()
